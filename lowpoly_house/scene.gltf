@@ -2802,10 +2802,10 @@
   ],
   "images": [
     {
-      "uri": "textures/07%20-%20Default_diffuse.png"
+      "uri": "textures/07.png"
     },
     {
-      "uri": "textures/08%20-%20Default_diffuse.png"
+      "uri": "textures/08.png"
     }
   ],
   "materials": [
